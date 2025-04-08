@@ -21,7 +21,7 @@ This project showcases a basic pipeline using GitHub and Jenkins.
 8. Here, I've entered call "build.bat" in the Execute Windows batch command window.
 9. Click on Save.
 
-# Jenkins will automatically scan the specified repo for changes and build the solution.
+## Jenkins will automatically scan the specified repo for changes and build the solution.
 
 ## Build.bat sample:
 
